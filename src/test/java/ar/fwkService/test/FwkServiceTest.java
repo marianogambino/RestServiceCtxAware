@@ -3,8 +3,6 @@
  */
 package ar.fwkService.test;
 
-import static org.junit.Assert.*;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -12,7 +10,6 @@ import org.junit.Before;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 
 import ar.edu.service.fwk.contextAware.model.Contexto;
 import ar.edu.service.fwk.contextAware.model.Dominio;

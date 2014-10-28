@@ -22,7 +22,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import ar.edu.service.fwk.contextAware.model.Dominio;
-import ar.edu.service.fwk.contextAware.response.ContextAwareResponse;
 import ar.edu.service.fwk.contextAware.response.InformacionContextual;
 
 /**
